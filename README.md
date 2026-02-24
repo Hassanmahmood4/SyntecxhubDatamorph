@@ -31,5 +31,5 @@ DataMorph is a lightweight Python web app that lets you upload CSV files and ins
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/datamorph.git
+git clone https://github.com/Hassanmahmood4/datamorph.git
 cd datamorph
